@@ -16,8 +16,3 @@ if(!action){
 }
 
 
-
-/* 
-<div class="calculadora">
-		<div class="calculadora_display">0</div>
-		<div class="calculadora_botoes"> */
